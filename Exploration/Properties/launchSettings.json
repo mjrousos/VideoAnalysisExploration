@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Exploration": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\scratch\\TestVideo.mp4"
+    }
+  }
+}
